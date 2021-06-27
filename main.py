@@ -6,7 +6,7 @@ from dateutil import parser
 from pprint import pprint
 from time import sleep
 BOT_TOKEN=os.environ.get("BOT_TOKEN")
-CHANNEL_ID='@AnimeReleaseAlert'
+CHANNEL_ID='@soapsplayground'
 FEED_URL="https://anidldotorg.disqus.com/latest.rss"
 prev=None
 #FEED_URL='https://honeysanime.com/feed/'
