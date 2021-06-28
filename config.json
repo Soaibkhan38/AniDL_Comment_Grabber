@@ -1,0 +1,7 @@
+{
+    "feed_url": RSS_URL,
+    "db_path": DB_FILEPATH,
+    "telegram_token": BOT_TOKEN,
+    "chat_id": CHAT_ID,
+    "message_prefix": "New Comment on"
+}
